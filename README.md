@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,mysql,postman,flask,java,c,python)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,mysql,postman,python,flask,java,c&perline=5)](https://skillicons.dev)<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav1256&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
