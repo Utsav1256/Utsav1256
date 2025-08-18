@@ -8,8 +8,8 @@
 ---
 
 ### 🌿 About Me
-- 🌱 Learning **Bug Bounty**, **DSA in Java & C**, and exploring **full-stack development**  
-- 💬 Ask me about **Java, MERN Stack, CS concepts, or Problem Solving**  
+- 🌱 Learning **Bug Bounty**, **Generative AI** and exploring **full-stack development**  
+- 💬 Ask me about **MERN Stack, CS concepts, or Problem Solving**  
 - 💡 Passionate about **building clean, scalable, and secure applications**  
 - 📫 Reach me at **[utsavkumar5462@gmail.com](mailto:utsavkumar5462@gmail.com)**  
 
