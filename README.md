@@ -183,7 +183,8 @@ const utsav = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav1256&custom_title=Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&height=200" height="200" alt="Contribution Graph"/>
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Coding Stats -->
 <h2>
@@ -194,7 +195,8 @@ const utsav = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav1256&bg_color=0d1117&color=00e0ff&line=ff1493&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Current Streak with Fire Animation -->
 <h2 align="center">
@@ -274,7 +276,9 @@ System Design            ██████░░░░░░░░░░░░�
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <!-- Random Dev Joke -->
 <h2 align="center">
@@ -310,7 +314,8 @@ System Design            ██████░░░░░░░░░░░░�
   </a>
 </p>
 
-
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Profile Views & Followers -->
 <p align="center">
