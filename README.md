@@ -1,7 +1,7 @@
 <!-- Animated Header with Gradient -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:7B68EE,100:FF1493&height=200&section=header&text=Utsav%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Learning%20Bug%20Bounty%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:7B68EE,100:FF1493&height=200&section=header&text=Utsav%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Learning%20Bug%20Bounty%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- Typing Animation -->
@@ -233,7 +233,7 @@ System Design            ██████░░░░░░░░░░░░�
   <tr>
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
-      <br><b>MERN Stack Development</b>
+      <br><b>Full Stack Development</b>
     </td>
     <td align="center" width="200">
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" />
