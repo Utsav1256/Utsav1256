@@ -1,12 +1,12 @@
 <!-- Animated Header with Gradient -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:7B68EE,100:FF1493&height=200&section=header&text=Utsav%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Learning%20Bug%20Bounty%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:7B68EE,100:FF1493&height=200&section=header&text=Utsav%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Learning%20Bug%20Bounty%20&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%A4%96;Hunting+Bugs+%F0%9F%90%9B;Contributing+to+Open+Source+%F0%9F%8C%9F;Learning+Never+Stops+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%A4%96;Hunting+Bugs+%F0%9F%90%9B;Learning+Never+Stops+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <!-- Animated Coding GIF -->
