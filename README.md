@@ -175,13 +175,10 @@ const utsav = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsav1256&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&height=200" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav1256&theme=radical&hide_border=true" height="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav1256&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" height="200" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav1256&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" height="200" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav1256&custom_title=Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&height=200" height="200" alt="Contribution Graph"/>
-</p>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
